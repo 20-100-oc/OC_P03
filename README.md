@@ -25,3 +25,4 @@ Le but est de simplifier les données pour une utilisation ultérieure.
   - missingno
   - statsmodels
   - sklearn
+- Jupyter notebook

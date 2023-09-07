@@ -1,0 +1,9 @@
+Order of notebooks:
+
+ - P3_01_clean_and_save.ipynb
+ - P3_01_impute_and_save.ipynb
+ - P3_01_analysis.ipynb
+
+
+"P3_03_web_page.ipynb" is a simplified version of 
+"P3_01_analysis.ipynb".

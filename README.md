@@ -8,7 +8,7 @@ Le but est de simplifier les données pour une utilisation ultérieure.
 - Explorater et nettoyer le dataset
 - Analyser dataset (de manière compréhensible pour un large public)
 - Effectuer un test statistique pour vérifier une hypothèse
-- présentater l'analyse à travers une page web
+- Présenter l'analyse à travers une page web
 
 ## Livrables
 - Notebooks d'analyse (lire "notebook_order.txt")

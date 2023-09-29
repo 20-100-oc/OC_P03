@@ -17,12 +17,16 @@ Le but est de simplifier les données pour une utilisation ultérieure.
 
 ## Outils
 - Python
-  - altair
-  - numpy
-  - matplotlib
-  - pandas
-  - seaborn
-  - missingno
-  - statsmodels
-  - sklearn
-- Jupyter notebook
+- Git / Github
+- Jupyter notebook / Python IDE
+- PowerPoint
+
+### Python : libraires additionnelles
+- altair
+- numpy
+- matplotlib
+- pandas
+- seaborn
+- missingno
+- statsmodels
+- sklearn

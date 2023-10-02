@@ -5,13 +5,13 @@
 Le but est de simplifier les données pour une utilisation ultérieure.
 
 ## Objectifs
-- Explorater et nettoyer le dataset
+- Explorer et nettoyer le dataset
 - Analyser dataset (de manière compréhensible pour un large public)
 - Effectuer un test statistique pour vérifier une hypothèse
 - Présenter l'analyse à travers une page web
 
 ## Livrables
-- Notebooks d'analyse (lire "notebook_order.txt")
+- Notebooks d'analyse
 - Page web
 - Présentation PowerPoint
 
